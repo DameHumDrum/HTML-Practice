@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+		<title>Katie's Movie Selections</title>
+	</head>
+  <body>
+    <h1>My Movie and Genre Interests</h1>
+    <div id="introduction">
+      <h2>Some Background</h2>
+      <p>The first movie I ever remember viewing involved people on top of a trailer attempting to fend off two <strong>bus-sized</strong> rats!
+      This was nothing out of the ordinary, though. My Dad balanced my sister and I with Disney movies and thrillers. Our bedtime stories were either recapping Disney movies in song,
+      Dad reading from our astronomy book, or cracking open the Creatures in the Night book that featured a detailed painting of a vampire lurking in the shadows.
+      It's slender face resembled a cross between man and mouse, but the fur on the head and the black cloak clearly insinuated a bat.
+      The film that always stuck with me, however, was Trilogy of Terror II, featuring He Who Kills</p>
+      <a href="https://en.wikipedia.org/wiki/Trilogy_of_Terror_II" target="_blank">Learn More</a>
+      <h3>Favorite Movies as a Child</h3>
+     <p>As stated previously, we had a fairly good balance of films even when I was a child. The ones that still standout were:
+      <ol>
+        <li>Trilogy of Terror II</li>
+        <li>Beauty and the Beast</li>
+        <li>Robin Hood Men in Tights</li>
+        <li>House (1985)</li>
+      </ol>
+      <p>House was a comedic horror involving a new homowner battling the supernatural experiences plaguing his home.</p>
+      <img src="https://bandsaboutmovies.files.wordpress.com/2017/11/house-poster-1986-steve-miner-fred-dekker.jpg" />
+    </div>
+    <div id="genres">
+      <h2>Movie Genres</h2>
+      <h3>My Favorite Genres</h3>
+      <p>Growing up, I loved both the Horror genre and Animations. I actually aspired to be an artist at one point in my life. Action movies could be fun, but the usual dry humor in them weren't enough to keep my interest.
+      What I enjoyed the most ended up being either disaster movies or spoofs. In 2000, my mother made the mistake of thinking Scary Movie would have been appropriate for kids.</p>
+    </div>
+    <div id="media">
+      <h2>Media</h2>
+      <video src="https://www.youtube.com/watch?v=LPI47v23wo0" width="320" height="240" controls>Video not supported</video>
+    </div>
+  </body>
+</html>
